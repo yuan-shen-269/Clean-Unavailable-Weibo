@@ -1,1 +1,1 @@
-# weibo-chrome-extension
+# Clean Unavailable Weibo
